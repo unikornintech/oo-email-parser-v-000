@@ -8,6 +8,6 @@ class EmailParser
   
   attr_accessor :emails 
   
-  
+  def initial
   
 end 
