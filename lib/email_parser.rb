@@ -13,7 +13,8 @@ class EmailParser
   end 
   
   def parse 
-    
+    email.split.map do |email|
+      
   end 
   
 end 
